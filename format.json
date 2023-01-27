@@ -1,0 +1,24 @@
+{
+  "_id": -1,
+  "name": "Swap Reticle",
+  "modversion": "0.1.1",
+  "gameversion": "2022r170",
+  "loaderversion": "0.5.7",
+  "modtype": "Mod",
+  "author": "Misatyan",
+  "description": "Allows you to tilt your head to the left or right (LeftCTRL + MouseWheel)
+Frees his hands and stretches them forward (Q - left hand, E - right hand)
+Replaces the red square dot with a round translucent one (looks much better than the standard one, but adheres to the general interface style)
+Allows you to disable the dot (Left CTRL+R) (SDRaw DRS)
+Most important: allows you to switch gestures using the mouse wheel (LeftShift + MouseWheel - for the left hand, F + MouseWheel - for the right hand)",
+  "searchtags": [
+    "CVRmod", "swith reticle", "change reticle"
+  ],
+  "requirements": [
+    ""
+  ],
+  "downloadlink": "https://github.com/n1ccel/Effector/releases/download/CVRmod/Effector.dll",
+  "sourcelink": "https://github.com/n1ccel/Effector/archive/refs/tags/CVRmod.zip",
+  "changelog": "New mod",
+  "embedcolor": "BB46C3"
+}
