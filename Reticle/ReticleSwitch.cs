@@ -16,7 +16,7 @@ namespace Misatyan
 
             reticle.sprite = Asset.Reticle();
             reticle.material.shader = Shader.Find("Sprites/Default");
-            reticle.transform.localScale = new Vector2(1, 1);
+            reticle.transform.localScale = Vector2.one;
         }
     }
 }
